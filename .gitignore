@@ -1,2 +1,5 @@
 api_key.py
 chatbot/*
+.env/*
+__pycache__/*
+config
